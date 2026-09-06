@@ -8,15 +8,15 @@ import userRoutes from "./routes/userRoute.js";
 import commentRoutes from "./routes/commentRoute.js";
 
 
-import "dotenv/config";
-import express from "express";
-import connectDB from "./config/db.js";
-import cors from "cors";
+// import "dotenv/config";
+// import express from "express";
+// import connectDB from "./config/db.js";
+// import cors from "cors";
 
-import authRoutes from "./routes/authRoute.js";
-import postRoutes from "./routes/postRoutes.js";
-import userRoutes from "./routes/userRoute.js";
-import commentRoutes from "./routes/commentRoutes.js";
+// import authRoutes from "./routes/authRoute.js";
+// import postRoutes from "./routes/postRoutes.js";
+// import userRoutes from "./routes/userRoute.js";
+// import commentRoutes from "./routes/commentRoutes.js";
 
 const app = express();
 
